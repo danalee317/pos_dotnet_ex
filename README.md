@@ -1,8 +1,6 @@
-﻿# PointOfSale
+﻿# Point Of Sale POC
  
 A Point of Sale app - demonstrating a distributed system supported by a well-crafted UI.
-
-It is a proof of concept. Check the Disclaimer below.
 
 ## Videos
 
